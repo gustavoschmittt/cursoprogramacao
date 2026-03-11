@@ -13,4 +13,5 @@ obesidade = (imc >= 30)
 print('Baixo peso?', baixo_peso)
 print('Normal?', normal)
 print('Sobrepeso?', sobrepeso)
-print('Obesidade', obesidade)
+print('Obesidade?', obesidade)
+
