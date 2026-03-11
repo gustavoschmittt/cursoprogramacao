@@ -1,1 +1,1 @@
-# CursoPrograma-o
+# CursoProgramacao
